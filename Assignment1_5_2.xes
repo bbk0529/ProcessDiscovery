@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- XES version 1.0 -->
+<!-- Created by Fluxicon Nitro (http://fluxicon.com/nitro/ -->
+<!-- (c) 2010 Fluxicon Process Laboratories / http://fluxicon.com/ -->
+<log xes.version="1.0" xmlns="http://code.deckfour.org/xes" xes.creator="Fluxicon Nitro">
+	<extension name="Concept" prefix="concept" uri="http://code.deckfour.org/xes/concept.xesext"/>
+	<extension name="Time" prefix="time" uri="http://code.deckfour.org/xes/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://code.deckfour.org/xes/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2011-04-13T14:02:31.199+02:00"/>
+		<string key="Activity" value="string"/>
+		<string key="Resource" value="string"/>
+		<string key="Costs" value="string"/>
+	</global>
+	<classifier name="Activity" keys="Activity"/>
+	<classifier name="activity classifier" keys="Activity"/>
+	<string key="creator" value="Fluxicon Nitro"/>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e"/>
+			<string key="Activity" value="e"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e"/>
+			<string key="Activity" value="e"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h"/>
+			<string key="Activity" value="h"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h"/>
+			<string key="Activity" value="h"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c"/>
+			<string key="Activity" value="c"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e"/>
+			<string key="Activity" value="e"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h"/>
+			<string key="Activity" value="h"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c"/>
+			<string key="Activity" value="c"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h"/>
+			<string key="Activity" value="h"/>
+		</event>
+		<event>
+			<string key="concept:name" value="f"/>
+			<string key="Activity" value="f"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="a"/>
+			<string key="Activity" value="a"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="h"/>
+			<string key="Activity" value="h"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e"/>
+			<string key="Activity" value="e"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="c"/>
+			<string key="Activity" value="c"/>
+		</event>
+		<event>
+			<string key="concept:name" value="b"/>
+			<string key="Activity" value="b"/>
+		</event>
+		<event>
+			<string key="concept:name" value="d"/>
+			<string key="Activity" value="d"/>
+		</event>
+		<event>
+			<string key="concept:name" value="g"/>
+			<string key="Activity" value="g"/>
+		</event>
+		<event>
+			<string key="concept:name" value="e"/>
+			<string key="Activity" value="e"/>
+		</event>
+		<event>
+			<string key="concept:name" value="i"/>
+			<string key="Activity" value="i"/>
+		</event>
+		<event>
+			<string key="concept:name" value="j"/>
+			<string key="Activity" value="j"/>
+		</event>
+	</trace>
+</log>
